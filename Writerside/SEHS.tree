@@ -7,4 +7,8 @@
                  start-page="starter-topic.md">
 
     <toc-element topic="starter-topic.md"/>
+    <toc-element topic="Starter-Guide.md"/>
+    <toc-element topic="Mac-Homebrew.md"/>
+    <toc-element topic="Docker.md"/>
+    <toc-element topic="SEHS4701.md"/>
 </instance-profile>
