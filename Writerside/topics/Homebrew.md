@@ -1,6 +1,6 @@
-# Mac: Homebrew
+# Homebrew Installation
 
-## Installation
+## Instructions
 
 Install [Homebrew](https://brew.sh) by executing the following command in your terminal:
 

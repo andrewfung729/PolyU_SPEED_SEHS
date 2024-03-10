@@ -1,10 +1,8 @@
-# Docker
+# Docker Installation
 
-## Installation
+## Mac
 
-### Mac
-
-@use [Mac: Homebrew](Mac-Homebrew.md)
+@use [Mac: Homebrew](Homebrew.md)
 
 Recommended Docker management tools:
 
@@ -14,7 +12,7 @@ Recommended Docker management tools:
 | Medium         | Docker CLI with VSCode Plugin |
 | Least          | Docker Desktop                |
 
-#### Install Orbstack
+### Install Orbstack
 
 Use Homebrew to install Orbstack:
 
@@ -22,7 +20,7 @@ Use Homebrew to install Orbstack:
 brew install orbstack
 ```
 
-#### Install Docker CLI
+### Install Docker CLI
 
 1. Use Homebrew to install Docker CLI:
     ```bash
@@ -32,7 +30,7 @@ brew install orbstack
 2. Search docker in VSCode Extensions and install the Docker extension.
    @see [Docker in Visual Studio Code](https://code.visualstudio.com/docs/containers/overview)
 
-#### Install Docker Desktop
+### Install Docker Desktop
 
 Use Homebrew to install Docker Desktop:
 
@@ -40,7 +38,7 @@ Use Homebrew to install Docker Desktop:
 brew install --cask docker
 ```
 
-### Linux
+## Linux
 
 Install Docker using the official script:
 
@@ -55,7 +53,7 @@ Then, add your user to the `docker` group:
 sudo usermod -aG docker $USER
 ```
 
-### Windows
+## Windows
 
 As I do not develop on Windows, I am unable to provide a specific setup guide for this platform. Contributions are
 welcome; if you wish to add a Windows guide, please submit a pull request. \
