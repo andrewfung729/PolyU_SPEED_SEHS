@@ -10,5 +10,7 @@
     <toc-element topic="Starter-Guide.md"/>
     <toc-element topic="Mac-Homebrew.md"/>
     <toc-element topic="Docker.md"/>
-    <toc-element topic="SEHS4701.md"/>
+    <toc-element topic="SEHS4701.md">
+        <toc-element topic="Development-Environment-Setup.md"/>
+    </toc-element>
 </instance-profile>
