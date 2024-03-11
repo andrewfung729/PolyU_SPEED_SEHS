@@ -10,6 +10,7 @@ Mac基於Unix，同Linux一樣，但比起唔同Linux distribution軟件應用�
 強烈建議拎咗個 [GitHub Student Developer Pack](https://education.github.com/pack/offers)先。
 Github為學生提供咗唔少優惠同資源，用學校email開個新account然後去認證就可以。
 單憑可以免費用Github Copilot，就值得去搞。
+> 試過用safari申請， 試過有Step有bug，BTW你唔得先轉用其他，可能已經Fix咗
 
 ## JetBrains全家桶
 
@@ -31,11 +32,12 @@ Mac同Linux用Docker都方便，但Windows就唔係咁方便，所以建議有�
 ## Git
 
 Git都係developer必學嘅嘢，詳情可以自己去了解，呢度就唔多講。我認為要團隊合作得更好至少要掌握以下幾個概念：
-<img height="600" src="git-basic.png"/>
-- Stage (add)
-- Local Repository (commit)
-- Remote Repository (push/pull)
-- Branch (checkout/merge)
-- Ignore (`.gitignore`)
+<img height="600" src="git-basic.png" alt="git concept"/>
+- 有咩係唔需要版本控制: Ignore (`.gitignore`)
+- 有咩係需要版本控制: Stage (add)
+- 類似遊戲存檔，每做一步就Save一下: Local Repository (commit)
+- 最終儲存同步嘅地方: Remote Repository (push/pull)
+- 分支，開多個Save，畀你去做一系列唔同嘅嘢: Branch (checkout/merge)
+- 交貨畀大佬: Pull Request (PR)
 
 ## 待續
