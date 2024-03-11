@@ -1,5 +1,13 @@
 # HK PolyU SPEED SEHS
 
-致每位正在修讀香港理工大學專業進修學院的學生，這裡是一個由學生自發成立的平台，希望能夠幫助大家更好地了解學校的情況，並且提供一個交流的空間。我們歡迎大家分享自己的經驗，亦歡迎大家提出問題，我們會盡力整合。希望這個平台能夠成為一個有用的資源，讓大家在學業上更上一層樓。請大家多多支持，多多分享，多多交流。謝謝！
+致每位正在修讀香港理工大學專業進修學院的學生，學業不易，共勉之。
 
-## [Platform](https://sehs.waiki.me)
+## [Platform](https://sehs.waiki.me) <- Click here to visit the platform
+
+## Lectures
+
+### SEHS4701
+
+- [Sample_JSP_Servlet](https://github.com/andrewfung729/SEHS4701-Sample_JSP_Servlet.git)
+- [Spring student demo](https://github.com/andrewfung729/SEHS4701-spring-studentdemo.git)
+- [Tomcat-MariaDB-phpMyAdmin All-in-One Docker Template](https://github.com/andrewfung729/tomcat-mariadb-phpmyadmin-aio-docker.git)
