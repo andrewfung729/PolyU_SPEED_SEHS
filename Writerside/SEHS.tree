@@ -4,9 +4,9 @@
 
 <instance-profile id="SEHS"
                  name="SEHS"
-                 start-page="starter-topic.md">
+                 start-page="About-Us.md">
 
-    <toc-element topic="starter-topic.md"/>
+    <toc-element topic="About-Us.md"/>
     <toc-element topic="Recommendations.md"/>
     <toc-element topic="Docker.md"/>
     <toc-element topic="Homebrew.md"/>
