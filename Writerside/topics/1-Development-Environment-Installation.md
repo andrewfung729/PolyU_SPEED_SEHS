@@ -1,4 +1,4 @@
-# Development Environment Setup
+# 1. Development Environment Installation
 
 用Mac的同學有福了，唔使再痛苦咁搞Tomcat、OpenJDK。用 [Homebrew](Homebrew.md) 啦! \
 用Docker的同學有福了，唔使再痛苦咁搞MariaDB、MySQL Workbench。裝 [Docker](Docker.md) 啦!
@@ -43,10 +43,44 @@ for Java EE, Spring, and other enterprise technologies.
 
 ## Java Servlet Container
 
-Install Apache Tomcat using Homebrew
+### Apache Tomcat
+
+Install Apache Tomcat, TomEE Plume or TomEE Plus using Homebrew
 
 ```bash
 brew install tomcat
+
+# To start tomcat now and restart at login:
+brew services start tomcat
+
+# Or, if you don't want/need a background service you can just run:
+/opt/homebrew/opt/tomcat/bin/catalina run
+
+# Configuration files: 
+/opt/homebrew/etc/tomcat
+```
+
+### Apache TomEE
+
+Version comparison:
+[https://tomee.apache.org/comparison.html](https://tomee.apache.org/comparison.html)
+
+```bash
+brew install tomee-plume
+
+# The home of Apache TomEE Plume is:
+/opt/homebrew/opt/tomee-plume/libexec
+
+# To run TomEE:
+/opt/homebrew/opt/tomee-plume/bin/startup.sh
+
+brew install tomee-plus
+
+# The home of Apache TomEE Plus is:
+/opt/homebrew/opt/tomee-plus/libexec
+
+# To run TomEE:
+/opt/homebrew/opt/tomee-plus/libexec/bin/startup.sh
 ```
 
 ## Database Management System
@@ -54,3 +88,7 @@ brew install tomcat
 Install MariaDB & PhpMyAdmin using Andrew Fung's Docker
 Templates: [Tomcat-MariaDB-phpMyAdmin All-in-One Docker Template](https://github.com/andrewfung729/tomcat-mariadb-phpmyadmin-aio-docker) \
 Don't forget to follow the instructions in the README file!
+
+## References
+
+- [https://www.jetbrains.com/help/idea/deploying-a-web-app-into-an-app-server-container.html](https://www.jetbrains.com/help/idea/deploying-a-web-app-into-an-app-server-container.html)

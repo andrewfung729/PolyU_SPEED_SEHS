@@ -11,6 +11,7 @@
     <toc-element topic="Docker.md"/>
     <toc-element topic="Homebrew.md"/>
     <toc-element topic="SEHS4701.md">
-        <toc-element topic="Development-Environment-Setup.md"/>
+        <toc-element topic="1-Development-Environment-Installation.md"/>
+        <toc-element topic="2-Development-Environment-Configuration.md"/>
     </toc-element>
 </instance-profile>
