@@ -28,4 +28,14 @@ brew install jetbrains-toolbox
 Docker可以話係現代developer必學嘅嘢，詳情可以自己去了解。呢度都有安裝教學: [Docker](Docker.md)。
 Mac同Linux用Docker都方便，但Windows就唔係咁方便，所以建議有能力嘅都買部Mac，或者唔鍾意可以裝個Linux，當然都可以用WSL2。
 
+## Git
+
+Git都係developer必學嘅嘢，詳情可以自己去了解，呢度就唔多講。我認為要團隊合作得更好至少要掌握以下幾個概念：
+<img height="600" src="git-basic.png"/>
+- Stage (add)
+- Local Repository (commit)
+- Remote Repository (push/pull)
+- Branch (checkout/merge)
+- Ignore (`.gitignore`)
+
 ## 待續
