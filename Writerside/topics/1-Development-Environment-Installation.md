@@ -87,9 +87,20 @@ brew install tomee-plus
 
 ## Database Management System
 
+@use [Docker](Docker.md) \
 Install MariaDB & PhpMyAdmin using Andrew Fung's Docker
-Templates: [Tomcat-MariaDB-phpMyAdmin All-in-One Docker Template](https://github.com/andrewfung729/tomcat-mariadb-phpmyadmin-aio-docker) \
-Don't forget to follow the instructions in the README file!
+Templates: [Tomcat-MariaDB-phpMyAdmin All-in-One Docker Template](https://github.com/andrewfung729/tomcat-mariadb-phpmyadmin-aio-docker)
+
+> :warning: Don't forget to follow the instructions in the README file!
+
+### 簡單教學
+
+1. 開新Project，將docker-compose.yml放入Project根目錄
+2. 如不需要Tomcat部份，刪除整個`tomcat` service
+3. 然後在Terminal執行
+    ```bash
+    docker-compose up
+    ```
 
 ## References
 

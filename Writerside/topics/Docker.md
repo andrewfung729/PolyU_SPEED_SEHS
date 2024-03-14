@@ -73,5 +73,5 @@ welcome; if you wish to add a Windows guide, please submit a pull request. \
 
 ## References
 
-- https://docs.docker.com
-- https://github.com/twtrubiks/docker-tutorial
+- [https://docs.docker.com](https://docs.docker.com)
+- [https://github.com/twtrubiks/docker-tutorial](https://github.com/twtrubiks/docker-tutorial)

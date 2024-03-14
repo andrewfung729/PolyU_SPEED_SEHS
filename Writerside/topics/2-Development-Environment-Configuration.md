@@ -51,8 +51,6 @@ TomEE base directory:
 - [https://www.jetbrains.com/help/idea/creating-and-configuring-web-application-elements.html](https://www.jetbrains.com/help/idea/creating-and-configuring-web-application-elements.html)
 
 ```Java
-
-```Java
 #if (${PACKAGE_NAME} && ${PACKAGE_NAME} != "")package ${PACKAGE_NAME};#end
 #parse("File Header.java")
 
