@@ -3,8 +3,8 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="SEHS"
-                 name="SEHS"
-                 start-page="About-Us.md">
+                  name="PolyU SPEED SEHS"
+                  start-page="About-Us.md">
 
     <toc-element topic="About-Us.md"/>
     <toc-element topic="Recommendations.md"/>

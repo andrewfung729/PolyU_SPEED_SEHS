@@ -1,16 +1,17 @@
 # Recommendations
 
-## Apple Mac
+## Apple Silicon Mac
 
 Mac基於Unix，同Linux一樣，但比起唔同Linux distribution軟件應用生態更加豐富，對於開發者嚟講係非常好嘅選擇。
 [Homebrew on Mac](Homebrew.md) 係一個非常好嘅package manager，可以方便咁安裝各種軟件。單憑呢一點已經方便過Windows好多。
+> 經測試，Intel Mac平台比較麻煩和性能問題，所以不推薦繼續
 
 ## GitHub Student
 
 強烈建議拎咗個 [GitHub Student Developer Pack](https://education.github.com/pack/offers)先。
 Github為學生提供咗唔少優惠同資源，用學校email開個新account然後去認證就可以。
 單憑可以免費用Github Copilot，就值得去搞。
-> 試過用safari申請， 試過有Step有bug，BTW你唔得先轉用其他，可能已經Fix咗
+> 試過用Safari申請， 試過有step有bug，btw你唔得先轉用其他，可能已經fix咗
 
 ## JetBrains全家桶
 

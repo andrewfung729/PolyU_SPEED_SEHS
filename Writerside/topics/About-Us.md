@@ -1,13 +1,16 @@
-# About Us
+# HK PolyU SPEED SEHS
 
 致每位正在修讀香港理工大學專業進修學院的學生，學業不易，共勉之。
 
-## [Platform](https://sehs.waiki.me) <- Click here to visit the platform
+## Introduction
+
+呢個Project原意係用嚟幫啲group mates可以順利上手J2EE同Spring Boot。由於要講嘅內容太多，所以將所有內容整合做一個Static web
+page，同時open出嚟，等大家都可以加嘢入去，或者幫手補充查錯。
+> URL: [https://sehs.waiki.me/](https://sehs.waiki.me/)
+
+Powered by Github CI/CD
 
 ## Lectures
 
-### SEHS4701
+- [SEHS4701](SEHS4701.md)
 
-- [Sample_JSP_Servlet](https://github.com/andrewfung729/SEHS4701-Sample_JSP_Servlet.git)
-- [Spring student demo](https://github.com/andrewfung729/SEHS4701-spring-studentdemo.git)
-- [Tomcat-MariaDB-phpMyAdmin All-in-One Docker Template](https://github.com/andrewfung729/tomcat-mariadb-phpmyadmin-aio-docker.git)
