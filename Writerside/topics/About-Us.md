@@ -14,3 +14,8 @@ Powered by Github CI/CD
 
 - [SEHS4701](SEHS4701.md)
 
+## Contributions
+
+感謝以下Contributors:
+
+- [Andrew Fung](https://github.com/andrewfung729)

@@ -2,7 +2,7 @@
 
 ## Java Development Kit (JDK)
 
-JDK Path:
+JDK Path
 
 ```bash
 /Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home
@@ -25,8 +25,9 @@ Tomcat base directory:
 #### Edit URL
 
 1. Edit Configuration → Deployment
-    - Application context: /test_java
-    - URL: http://localhost:8080/test_java/
+    - 如果你Set Application context係咁: `/test_java`
+    - URL就會係咁: `http://localhost:8080/test_java/`
+   > :warning: TomEE 用呢個URL會唔得，要用返個folder名: XXX-1.0-SNAPSHOT
 
 2. Hot Swap
     - Choose war exploded
@@ -43,9 +44,13 @@ TomEE base directory:
 /opt/homebrew/opt/tomee-plume/libexec
 ```
 
-## J2EE Servlet
+## J2EE Servlet Template (Optional) {collapsible="true"}
 
-[https://www.jetbrains.com/help/idea/creating-and-configuring-web-application-elements.html](https://www.jetbrains.com/help/idea/creating-and-configuring-web-application-elements.html)
+為Servlet創建一個模板，以便在IntelliJ IDEA中快速生成Servlet文件。
+
+- [https://www.jetbrains.com/help/idea/creating-and-configuring-web-application-elements.html](https://www.jetbrains.com/help/idea/creating-and-configuring-web-application-elements.html)
+
+```Java
 
 ```Java
 #if (${PACKAGE_NAME} && ${PACKAGE_NAME} != "")package ${PACKAGE_NAME};#end

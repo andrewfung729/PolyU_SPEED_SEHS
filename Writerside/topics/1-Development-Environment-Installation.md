@@ -14,7 +14,7 @@ for Java EE, Spring, and other enterprise technologies.
     ```
 
 2. Install IntelliJ IDEA Ultimate Edition using JetBrains Toolbox
-   <img alt="Jetbrains Toolbox" src="jetbrains-toolbox.png" width="400"/>
+   ![jetbrains-toolbox](../images/jetbrains-toolbox.png){ width="400" }
 
 ## Java Development Kit (JDK)
 
@@ -62,7 +62,7 @@ brew services start tomcat
 
 ### Apache TomEE
 
-Version comparison:
+兩個版本二選一，Version comparison:
 [https://tomee.apache.org/comparison.html](https://tomee.apache.org/comparison.html)
 
 ```bash
@@ -71,15 +71,17 @@ brew install tomee-plume
 # The home of Apache TomEE Plume is:
 /opt/homebrew/opt/tomee-plume/libexec
 
-# To run TomEE:
+# To run TomEE manually if you need to:
 /opt/homebrew/opt/tomee-plume/bin/startup.sh
+```
 
+```Bash
 brew install tomee-plus
 
 # The home of Apache TomEE Plus is:
 /opt/homebrew/opt/tomee-plus/libexec
 
-# To run TomEE:
+# To run TomEE manually if you need to:
 /opt/homebrew/opt/tomee-plus/libexec/bin/startup.sh
 ```
 
