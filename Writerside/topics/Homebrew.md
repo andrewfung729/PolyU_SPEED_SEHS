@@ -2,7 +2,7 @@
 
 ## Instructions
 
-> :warning: 此教學只適用Apple Silicon，Intel用戶請自研
+> ❗❗❗ 此教學只適用Apple Silicon，Intel用戶請自研
 
 ### Option 1
 
@@ -19,7 +19,7 @@ Install [Homebrew](https://brew.sh) by executing the following command in your t
 eval "$(/opt/homebrew/bin/brew shellenv)"
 ```
 
-> :warning: 經同學反映，冇行到佢跟畀你嘅commands，會產生大麻煩，請不要忘記！
+> ❗❗❗ 經同學反映，冇行到佢跟畀你嘅commands，會產生大麻煩，請不要忘記！
 
 ### Option 2
 

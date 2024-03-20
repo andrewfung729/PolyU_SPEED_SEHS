@@ -17,13 +17,15 @@ Github為學生提供咗唔少優惠同資源，用學校email開個新account�
 
 喺呢個SPEED program我哋會寫唔同Languages，如果每個Language都用唔同IDE就會好麻煩，所以我會用建議用JetBrains。
 寫唔同嘅Language但係統一嘅介面同用法，仲有大量好用嘅plugin，例如入邊內置咗Git同埋DB GUI client。
-可以用 [JetBrains Toolbox](https://www.jetbrains.com/toolbox-app/) 去裝JetBrains全家桶。 \
-<br/>
-用Mac嘅同學:
+可以用 [JetBrains Toolbox](https://www.jetbrains.com/toolbox-app/) 去裝JetBrains全家桶。
 
-```bash
-brew install jetbrains-toolbox
-```
+- 已經申請咗GitHub Student嘅同學，跟住去apply:
+  [https://cloud.tencent.com/developer/article/2144507](https://cloud.tencent.com/developer/article/2144507)
+- 用Mac嘅同學:
+
+    ```bash
+    brew install jetbrains-toolbox
+    ```
 
 ## Docker
 
@@ -33,7 +35,8 @@ Mac同Linux用Docker都方便，但Windows就唔係咁方便，所以建議有�
 ## Git
 
 Git都係developer必學嘅嘢，詳情可以自己去了解，呢度就唔多講。我認為要團隊合作得更好至少要掌握以下幾個概念：
-<img height="600" src="git-basic.png" alt="git concept"/>
+![git concept](git-basic.png){ width="500" }
+
 - 有咩係唔需要版本控制: Ignore (`.gitignore`)
 - 有咩係需要版本控制: Stage (add)
 - 類似遊戲存檔，每做一步就Save一下: Local Repository (commit)

@@ -3,6 +3,7 @@
 ## Mac
 
 @use [Mac: Homebrew](Homebrew.md)
+> ❗❗❗ 三個選擇，請按照自己嘅需要選擇一個，唔好三個都裝
 
 Recommended Docker management tools:
 
