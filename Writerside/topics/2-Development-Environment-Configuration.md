@@ -27,7 +27,7 @@ Tomcat base directory:
 1. Edit Configuration → Deployment
     - 如果你Set Application context係咁: `/test_java`
     - URL就會係咁: `http://localhost:8080/test_java/`
-   > ❗❗❗ TomEE 用呢個URL會唔得，要用返個folder名: XXX-1.0-SNAPSHOT
+   > ❗❗❗ TomEE改Application context會冇用，要用返target入個project folder名: XXX-1.0-SNAPSHOT，如果大家搵到方法請通知我
 
 2. Hot Swap
     - Choose war exploded
