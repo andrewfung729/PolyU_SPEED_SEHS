@@ -49,7 +49,11 @@ Install Apache Tomcat, TomEE Plume or TomEE Plus using Homebrew
 
 ```bash
 brew install tomcat
+```
 
+以下內容純屬參考
+
+```Bash
 # To start tomcat now and restart at login:
 brew services start tomcat
 
@@ -95,7 +99,7 @@ brew install tomee-plus
 Install MariaDB & PhpMyAdmin using Andrew Fung's Docker
 Templates: [Tomcat-MariaDB-phpMyAdmin All-in-One Docker Template](https://github.com/andrewfung729/tomcat-mariadb-phpmyadmin-aio-docker)
 
-> ❗❗❗ Don't forget to follow the instructions in the README file!
+> ❗❗❗ 睇清楚個README，你要清楚自己做緊咩! 
 
 ### 簡單教學
 
