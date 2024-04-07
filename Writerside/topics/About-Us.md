@@ -13,6 +13,7 @@ Powered by Github CI/CD
 ## Lectures
 
 - [SEHS4701](SEHS4701.md)
+- [SEHS4696](SEHS4696.md)
 
 ## Contributions
 
