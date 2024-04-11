@@ -1,4 +1,4 @@
-# 2. Development Environment Configuration - IntelliJ IDEA Ultimate Edition
+# SEHS4701 Development Environment Configuration - IntelliJ IDEA Ultimate Edition
 
 ## Java Development Kit (JDK)
 
