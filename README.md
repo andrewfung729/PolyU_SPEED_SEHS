@@ -8,7 +8,7 @@
 page，同時open出嚟，等大家都可以加嘢入去，或者幫手補充查錯。
 > URL: [https://sehs.waiki.me/](https://sehs.waiki.me/)
 
-Powered by Github CI/CD
+Powered by Jetbrains Writerside & Github CI/CD
 
 ## Lectures
 
