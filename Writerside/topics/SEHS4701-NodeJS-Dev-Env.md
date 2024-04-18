@@ -1,4 +1,4 @@
-# SEHS4701 NodeJS Dev Env
+# SEHS4701 NodeJS Development Environment
 
 Some classmates may be interested in NodeJS development environment setup. This section will guide you through the
 installation and configuration of NodeJS development environment.
@@ -11,7 +11,11 @@ We will use NVM to install NodeJS. NVM is a version manager for NodeJS.
 
 ```Bash
 brew install nvm
+```
 
+裝完之後仲會叫你行兩句command，下面只係參考，copy前要諗清楚！
+
+```Bash
 # You should create NVM's working directory if it doesn't exist:
 mkdir ~/.nvm
 

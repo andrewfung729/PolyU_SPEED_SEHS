@@ -1,4 +1,7 @@
-# SEHS4701 Development Environment Configuration - IntelliJ IDEA Ultimate Edition
+# SEHS4701 Java Development Environment Configuration - IntelliJ IDEA Ultimate Edition
+
+For developing J2EE applications, I recommend using the IntelliJ IDEA Ultimate Edition. It offers comprehensive support
+for Java EE, Spring, and other enterprise technologies.
 
 ## Java Development Kit (JDK)
 

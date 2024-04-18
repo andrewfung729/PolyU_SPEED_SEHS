@@ -1,4 +1,4 @@
-# SEHS4701 Development Environment Installation
+# SEHS4701 Java Development Environment Installation
 
 用Mac的同學有福了，唔使再痛苦咁搞Tomcat、OpenJDK。用 [Homebrew](Homebrew.md) 啦! \
 用Docker的同學有福了，唔使再痛苦咁搞MariaDB、MySQL Workbench。裝 [Docker](Docker.md) 啦!
