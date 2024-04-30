@@ -14,7 +14,7 @@
         <toc-element topic="SEHS4701-Java-Dev-Env-Install.md"/>
         <toc-element topic="SEHS4701-Java-Dev-Env-Config.md">
         </toc-element>
-        <toc-element topic="SEHS4701-SpringBoot-Dev-Env-Config-md.md"/>
+        <toc-element topic="SEHS4701-SpringBoot-Dev-Env-Config.md"/>
         <toc-element topic="SEHS4701-NodeJS-Dev-Env.md"/>
     </toc-element>
     <toc-element topic="SEHS4696.md">
